@@ -1,0 +1,23 @@
+ we should setup
+
+Terraform
+VS Code
+AWSCLI
+
+Install Terraform
+Download terraform the latest version from https://developer.hashicorp.com/terraform/install
+
+Setup environment variable click on start --> search "edit the environment variables" and click on it
+Under the advanced tab, chose "Environment variables" --> under the system variables select path variable
+and add terraform location in the path variable. system variables --> select path
+add new --> terraform_Path
+in my system, this path location is Download/terraform_1.8.5
+
+Run the below command to validate terraform version
+
+terraform -version
+Install Visual Studio code
+Download vs code latest version from here and install it.
+
+AWSCLI installation
+Download AWSCLI latest version from here and install it.
